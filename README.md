@@ -6,7 +6,7 @@ Bu proje, **FastAPI** kullanarak `tbl_daily_campaigns` ve `tbl_daily_scores` tab
 
 1. Projeyi klonla veya indir:
    ```bash
-   git clone <REPO_URL>
+   git clone https://github.com/beriaacan/adin_ai_task.git
    cd adin_ai_task   
 4. Gerekli kütütphaneleri yükle
    ```bash
