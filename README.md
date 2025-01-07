@@ -9,9 +9,11 @@ Bu proje, **FastAPI** kullanarak `tbl_daily_campaigns` ve `tbl_daily_scores` tab
    git clone <REPO_URL>
    cd adin_ai_task   
 4. Gerekli kütütphaneleri yükle
+   ```bash
    pip install -r requirements.txt
 
 6. Run komutu
+   ```bash
    uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 
 8. Kullanım
