@@ -1,4 +1,4 @@
-# Adin AI Task - FastAPI
+#  FastAPI
 
 Bu proje, **FastAPI** kullanarak `tbl_daily_campaigns` ve `tbl_daily_scores` tablolarından verileri birleştirir ve belirtilen formatta JSON çıktısı üretir.
 
